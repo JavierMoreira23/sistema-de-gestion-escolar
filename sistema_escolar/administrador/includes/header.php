@@ -31,3 +31,5 @@
         </li>
       </ul>
     </header>
+
+    <?php require_once 'nav.php'    ?>
