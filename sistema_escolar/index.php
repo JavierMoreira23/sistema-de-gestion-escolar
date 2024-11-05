@@ -11,7 +11,7 @@
         <header class="main-header">
             <div class="main-cont">
                 <div class="desc-header">
-                    <img src="" alt="image school">
+                    <img src="images/school.svg" alt="image school">
                     <p>School</p>
                 </div>
             </div>
